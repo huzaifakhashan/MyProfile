@@ -1,11 +1,11 @@
 {
-    "name": "profile_web_app",
-    "short_name": "profile_web_app",
+    "name": "Huzaifa Khashan",
+    "short_name": "Huzaifa Khashan",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0B1020",
+    "theme_color": "#0B1020",
+    "description": "Huzaifa Khashan - Flutter Developer portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
