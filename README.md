@@ -1,17 +1,30 @@
-# profile_web_app
+# 👋 Huzaifa Khashan — Personal CV
 
-A new Flutter project.
+A personal CV / portfolio website built with **Flutter Web**.
 
-## Getting Started
+🌐 **Live Website:**
+https://huzaifakhashan.gt.tc/
 
-This project is a starting point for a Flutter application.
+## ✨ About
 
-A few resources to get you started if this is your first Flutter project:
+This project is my personal online CV and portfolio, designed to present my skills, projects, and developer experience in a simple and modern interface.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Flutter Web
+
+## 🌐 Live Preview
+
+You can visit my online CV here:
+
+👉 https://huzaifakhashan.gt.tc/
+
+
+## 👨‍💻 Author
+
+**Huzaifa Khashan**
+
+* GitHub: https://github.com/huzaifakhashan
+* Website: https://huzaifakhashan.gt.tc/
